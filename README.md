@@ -1,2 +1,2 @@
-# zzkv
-基于raft算法，Java工程实现的强一致、高可用的分布式KV缓存
+# zzraft
+基于raft分布式一致性协议的Java工程实现
